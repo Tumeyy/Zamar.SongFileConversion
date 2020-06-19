@@ -1,0 +1,14 @@
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.csproj.CoreCompileInputs.cache
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.AssemblyInfoInputs.cache
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.AssemblyInfo.cs
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\bin\Debug\netcoreapp2.2\Zamzar.SongFileConversion.deps.json
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\bin\Debug\netcoreapp2.2\Zamzar.SongFileConversion.runtimeconfig.json
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\bin\Debug\netcoreapp2.2\Zamzar.SongFileConversion.runtimeconfig.dev.json
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\bin\Debug\netcoreapp2.2\Zamzar.SongFileConversion.dll
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\bin\Debug\netcoreapp2.2\Zamzar.SongFileConversion.pdb
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.csprojAssemblyReference.cache
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.RazorAssemblyInfo.cache
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.RazorAssemblyInfo.cs
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.RazorTargetAssemblyInfo.cache
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.dll
+D:\Git Source Control\Zamzar.SongFileConversion\Zamzar.SongFileConversion\obj\Debug\netcoreapp2.2\Zamzar.SongFileConversion.pdb
